@@ -1,0 +1,391 @@
+fileFormatVersion: 2
+guid: 8c98d269e3dcdc24e8aac3d67acfd451
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: heavy PT1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e654f4af3a42cf4cb81f79970e8365b
+      internalID: 589767628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f608b1d3e01083547ba9f34809807070
+      internalID: -918925322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_2
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83dc9296d7012504c89c44fa746050e0
+      internalID: -735551922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_3
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5840d7673f1bb5844a47a899d47ee4d2
+      internalID: -274528357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_4
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9840917dc931d8945a5fe274936b90ae
+      internalID: -972211447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_5
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7443927f3b48340a3a8f8e764236bd
+      internalID: 1653000988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_6
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46dcd62a2600c03488ca397edc9da8f0
+      internalID: 108797235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_7
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d89b3ace9d36b4ca0e71790a829fa3
+      internalID: -538818258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_8
+      rect:
+        serializedVersion: 2
+        x: 1688
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22fae6fa36eac542a5e3f16109f12e2
+      internalID: -1100168080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_9
+      rect:
+        serializedVersion: 2
+        x: 1899
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0e240dfe112c24398d66e1cc83ee2a
+      internalID: 1761908303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_10
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aede4bf68400a74794aab93835415cb
+      internalID: 1207447659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heavy PT1_11
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 0
+        width: 211
+        height: 112
+      alignment: 9
+      pivot: {x: 0.41, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91b3019919363e4492fbc03c202644a
+      internalID: 709820557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      heavy PT1_0: 589767628
+      heavy PT1_1: -918925322
+      heavy PT1_10: 1207447659
+      heavy PT1_11: 709820557
+      heavy PT1_2: -735551922
+      heavy PT1_3: -274528357
+      heavy PT1_4: -972211447
+      heavy PT1_5: 1653000988
+      heavy PT1_6: 108797235
+      heavy PT1_7: -538818258
+      heavy PT1_8: -1100168080
+      heavy PT1_9: 1761908303
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
